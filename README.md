@@ -24,7 +24,7 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
 
 ## GIFs 🎥
 
-| Multiplayer 👫 | Single-Player 🤖 | Single-Player: Timer ⏱️ | Single-Player: Championship and Timer |
+| Multiplayer 👫 | Single-Player 🤖 | Timer ⏱️ | Championship and Timer 🏆⏱️ |
 |---|---|---|---|
 | ![Multiplayer](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/96c207d8-6985-44f6-802b-2e8b180b3408) | ![Single-Player](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/fbcea0a4-bf9f-4df1-ac22-0d3c6ad5f75b) | ![Single-Player_Timer](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/150699a7-9677-46e2-94b0-b0c12b563b90) | ![Single-Player_Championship_Timer](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/5294dbc7-826b-46c2-b718-d0de229b092a) |
 
