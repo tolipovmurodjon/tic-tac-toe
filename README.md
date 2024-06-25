@@ -13,8 +13,11 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
 
 ## Technologies Used 🛠️
 
-- Glide for image loading
-- Custom Countdown Timer for turn management
+- AnimationUtils
+- Dialogs
+- MediaPlayer
+- Glide
+- Custom CountDownTimer
 
 ## Screenshots 📸
 
