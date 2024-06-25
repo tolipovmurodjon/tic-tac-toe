@@ -35,7 +35,7 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
     </td>
     <td align="center">
       <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/e0e86792-0732-48ab-9ff2-1da92c0e0c90" alt="Screenshot 4" width="200" />
-      <br />Result Dialog
+      <br />Result Screen
     </td>
   </tr>
 </table>
