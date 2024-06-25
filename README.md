@@ -46,19 +46,19 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
   <tr>
     <td align="center">
       <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/96c207d8-6985-44f6-802b-2e8b180b3408" alt="Multiplayer" width="200" />
-      <br />Multiplayer: Description of the multiplayer GIF goes here.
+      <br />Multiplayer
     </td>
     <td align="center">
       <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/fbcea0a4-bf9f-4df1-ac22-0d3c6ad5f75b" alt="Single-Player" width="200" />
-      <br />Single-Player: Description of the single-player GIF goes here.
+      <br />Single-Player
     </td>
     <td align="center">
       <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/150699a7-9677-46e2-94b0-b0c12b563b90" alt="Single-Player_Timer" width="200" />
-      <br />Single-Player with Timer: Description of the single-player with timer GIF goes here.
+      <br />Single-Player: Timer
     </td>
     <td align="center">
       <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/5294dbc7-826b-46c2-b718-d0de229b092a" alt="Single-Player_Championship_Timer" width="200" />
-      <br />Single-Player Championship with Timer: Description of the single-player championship with timer GIF goes here.
+      <br />Single-Player: Championship and Timer
     </td>
   </tr>
 </table>
