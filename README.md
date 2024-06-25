@@ -2,7 +2,7 @@
 
 ## Overview ℹ️
 
-This is a Tic-Tac-Toe game developed for Android devices. The game features a user-friendly interface, championship mode, timer, and AI simulation.
+This is a Tic-Tac-Toe game developed for Android devices. The game features a user-friendly interface, championship, timer, and AI simulation.
 
 ## Features ✨
 
