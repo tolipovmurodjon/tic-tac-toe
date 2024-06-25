@@ -17,6 +17,8 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
 * Java programming language
 * Android Studio IDE
 
+* ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 ## Notable Design Decisions
 
 * The game uses a simple and intuitive UI design to make it easy for users to play.
