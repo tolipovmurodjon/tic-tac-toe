@@ -18,12 +18,13 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
 * Android Studio IDE
 
 <p align="left">
-  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/blob/main/assets/173606323/496ab66b-df1e-422e-94e1-e9f9890adca7.png" alt="Screenshot 1" width="150" />
-  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/blob/main/assets/173606323/68647c88-0b6a-4397-87d8-29bd1ca6cc38.png" alt="Screenshot 2" width="150" />
-  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/blob/main/assets/173606323/1cb3d6e8-2713-404e-b8a8-d595dd8ae8e8.png" alt="Screenshot 3" width="150" />
-  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/blob/main/assets/173606323/e0e86792-0732-48ab-9ff2-1da92c0e0c90.png" alt="Screenshot 4" width="150" />
-  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/blob/main/assets/173606323/2997726c-e2ff-4eea-a86b-90c33624ae11.png" alt="Screenshot 5" width="150" />
+  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/496ab66b-df1e-422e-94e1-e9f9890adca7" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/68647c88-0b6a-4397-87d8-29bd1ca6cc38" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/1cb3d6e8-2713-404e-b8a8-d595dd8ae8e8" alt="Screenshot 3" width="200" />
+  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/e0e86792-0732-48ab-9ff2-1da92c0e0c90" alt="Screenshot 4" width="200" />
+  <img src="https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/2997726c-e2ff-4eea-a86b-90c33624ae11" alt="Screenshot 5" width="200" />
 </p>
+
 
 
 ## Notable Design Decisions
