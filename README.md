@@ -2,7 +2,13 @@
 
 ## Overview ℹ️
 
-This is a Tic-Tac-Toe game developed for Android devices. The game features a user-friendly interface, championship, timer, and AI simulation.
+Welcome to the ultimate Tic-Tac-Toe challenge on Android! 🎮 Can you defeat TicTacAI, the formidable opponent known for its unbeatable strategy? 🤖 Even with your best effort, your odds of winning are only 25%. Are you up for the challenge? 😉
+
+Choose the timer option for a thrilling experience with just 10 seconds per move against TicTacAI. In championship mode, brace yourself for a series of 10 intense games. 🏆 If you combine both modes, each game will be a fast-paced 30 seconds, spread across the 10 matches. 🕒 Can you maintain focus and strategy throughout?
+
+Playing isn't just about fun; it's a journey of skill enhancement and tactical insight. 🧠 Whether solo or with friends, every match strengthens bonds and creates memorable moments.
+
+Are you prepared to test your skills against TicTacAI? 🚀 Let's play and see if you can conquer the board!
 
 ## Features ✨
 
