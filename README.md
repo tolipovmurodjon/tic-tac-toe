@@ -17,7 +17,12 @@ This is a Tic-Tac-Toe game developed for Android devices. The game features a us
 * Java programming language
 * Android Studio IDE
 
-* ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![Screenshot_20240625_160306](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/496ab66b-df1e-422e-94e1-e9f9890adca7)
+![Screenshot_20240625_160358](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/68647c88-0b6a-4397-87d8-29bd1ca6cc38)
+![Screenshot_20240625_160509](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/1cb3d6e8-2713-404e-b8a8-d595dd8ae8e8)
+![Screenshot_20240625_160518](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/e0e86792-0732-48ab-9ff2-1da92c0e0c90)
+![Screenshot_20240625_160635](https://github.com/tolipovmurodjon/tic-tac-toe/assets/173606323/2997726c-e2ff-4eea-a86b-90c33624ae11)
+
 
 ## Notable Design Decisions
 
